@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Vite App</title>
+		<!-- ============== Font awesome ============= -->
+		<link
+			rel="stylesheet"
+			href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+			integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
+			crossorigin="anonymous"
+		/>
+	</head>
+	<body>
+		<div id="root"></div>
+		<script type="module" src="/src/main.jsx"></script>
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script>
+			tailwind.config = {
+				theme: {
+					screens: {
+						sm: '480px',
+						md: '768px',
+						lg: '976px',
+						xl: '1440px',
+					},
+					extend: {
+						colors: {
+							brightRed: 'hsl(12, 88%, 59%)',
+							brightRedLight: 'hsl(12, 88%, 69%)',
+							brightRedSupLight: 'hsl(12, 88%, 95%)',
+							darkBlue: '#084477',
+							darkGrayishBlue: 'hsl(227, 12%, 61%)',
+							veryDarkBlue: 'hsl(233, 12%, 13%)',
+							veryPaleRed: 'hsl(13, 100%, 96%)',
+							veryLightGray: 'hsl(0, 0%, 98%)',
+						},
+					},
+				},
+			};
+		</script>
+	</body>
+</html>
