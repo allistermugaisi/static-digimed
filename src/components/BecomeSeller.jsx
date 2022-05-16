@@ -19,7 +19,7 @@ const BecomeSeller = () => {
 						<div class="flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row">
 							<div class="rounded-l-full bg-brightRedSupLight md:bg-transparent">
 								<div class="flex items-center space-x-2">
-									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkBlue">
+									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkPurple">
 										01
 									</div>
 									<h3 class="text-base font-bold md:mb-4 md:hidden">
@@ -44,7 +44,7 @@ const BecomeSeller = () => {
 						<div class="flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row">
 							<div class="rounded-l-full bg-brightRedSupLight md:bg-transparent">
 								<div class="flex items-center space-x-2">
-									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkBlue">
+									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkPurple">
 										02
 									</div>
 									<h3 class="text-base font-bold md:mb-4 md:hidden">
@@ -69,7 +69,7 @@ const BecomeSeller = () => {
 						<div class="flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row">
 							<div class="rounded-l-full bg-brightRedSupLight md:bg-transparent">
 								<div class="flex items-center space-x-2">
-									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkBlue">
+									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkPurple">
 										03
 									</div>
 									<h3 class="text-base font-bold md:mb-4 md:hidden">
@@ -113,7 +113,7 @@ const BecomeSeller = () => {
 						<div class="flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row">
 							<div class="rounded-l-full bg-brightRedSupLight md:bg-transparent">
 								<div class="flex items-center space-x-2">
-									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkBlue">
+									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkPurple">
 										04
 									</div>
 									<h3 class="text-base font-bold md:mb-4 md:hidden">
@@ -139,7 +139,7 @@ const BecomeSeller = () => {
 						<div class="flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row">
 							<div class="rounded-l-full bg-brightRedSupLight md:bg-transparent">
 								<div class="flex items-center space-x-2">
-									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkBlue">
+									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkPurple">
 										05
 									</div>
 									<h3 class="text-base font-bold md:mb-4 md:hidden">
@@ -167,7 +167,7 @@ const BecomeSeller = () => {
 						<div class="flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row">
 							<div class="rounded-l-full bg-brightRedSupLight md:bg-transparent">
 								<div class="flex items-center space-x-2">
-									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkBlue">
+									<div class="px-4 py-2 text-white rounded-full md:py-1 bg-darkPurple">
 										06
 									</div>
 									<h3 class="text-base font-bold md:mb-4 md:hidden">

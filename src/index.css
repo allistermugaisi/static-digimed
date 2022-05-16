@@ -424,7 +424,7 @@ ul {
 }
 
 .site-heading h2 span {
-	color: #084477;
+	color: #621bbd;
 }
 
 .site-heading h4 {
@@ -436,7 +436,7 @@ ul {
 }
 
 .site-heading h4::before {
-	background: #084477 none repeat scroll 0 0;
+	background: #621bbd none repeat scroll 0 0;
 	bottom: 0;
 	content: '';
 	height: 2px;
@@ -466,13 +466,13 @@ ul {
 }
 
 .we-offer-area .our-offer-carousel .owl-dots .owl-dot.active span {
-	background: #084477 none repeat scroll 0 0;
-	border-color: #084477;
+	background: #621bbd none repeat scroll 0 0;
+	border-color: #621bbd;
 }
 
 .we-offer-area .item {
 	background: #ffffff none repeat scroll 0 0;
-	border-left: 2px solid #084477;
+	border-left: 2px solid #621bbd;
 	-moz-box-shadow: 0 0 10px #cccccc;
 	-webkit-box-shadow: 0 0 10px #cccccc;
 	-o-box-shadow: 0 0 10px #cccccc;
@@ -492,7 +492,7 @@ ul {
 }
 
 .we-offer-area.text-center .item i {
-	background: #084477 none repeat scroll 0 0;
+	background: #621bbd none repeat scroll 0 0;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
@@ -513,7 +513,7 @@ ul {
 }
 
 .we-offer-area.text-center .item i::after {
-	border: 2px solid #084477;
+	border: 2px solid #621bbd;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
@@ -551,7 +551,7 @@ ul {
 
 .our-offer-carousel.center-active .owl-item:nth-child(2n) .item,
 .we-offer-area.center-active .single-item:nth-child(2n) .item {
-	background: #084477 none repeat scroll 0 0;
+	background: #621bbd none repeat scroll 0 0;
 }
 
 .our-offer-carousel.center-active .owl-item:nth-child(2n) .item i,
@@ -590,7 +590,7 @@ ul {
 }
 
 .we-offer-area .item::after {
-	background: #084477 none repeat scroll 0 0;
+	background: #621bbd none repeat scroll 0 0;
 	content: '';
 	height: 100%;
 	left: -100%;
